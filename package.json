@@ -33,9 +33,7 @@
         "bootstrap": "4.3.1",
         "gulp": "^4.0.2",
         "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1"
-    },
-    "devDependencies": {
+        "jquery.easing": "^1.4.1",
         "browser-sync": "2.26.7",
         "del": "5.1.0",
         "gulp-autoprefixer": "7.0.0",
